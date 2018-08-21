@@ -1,0 +1,42 @@
+﻿<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.67 47.06">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+        stroke-width: 1.98px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #64b521;
+        stroke-miterlimit: 22.93;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 3.97 1.98;
+      }
+
+      .cls-3 {
+        fill: #64b521;
+        stroke-width: 0.22px;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>оборудование</title>
+  <g>
+    <rect class="cls-1" x="0.99" y="0.99" width="54.68" height="45.07" rx="4.71" ry="4.71"/>
+    <line class="cls-1" x1="0.99" y1="34.62" x2="55.67" y2="34.62"/>
+    <line class="cls-2" x1="7.16" y1="39.93" x2="50.56" y2="39.93"/>
+    <rect class="cls-1" x="7.47" y="8.63" width="16.62" height="19.29"/>
+    <rect class="cls-1" x="31.63" y="8.63" width="16.62" height="11.12"/>
+    <line class="cls-1" x1="31.63" y1="14.19" x2="48.25" y2="14.19"/>
+    <line class="cls-1" x1="39.94" y1="19.75" x2="39.94" y2="8.63"/>
+    <circle class="cls-3" cx="39.94" cy="26.8" r="1.5"/>
+    <circle class="cls-3" cx="47.12" cy="26.8" r="1.5"/>
+    <circle class="cls-3" cx="32.76" cy="26.8" r="1.5"/>
+    <path class="cls-4" d="M218.69,529.48l8.47-4.89m-8.47,10.71,8.47-4.89" transform="translate(-206.74 -511.66)"/>
+  </g>
+</svg>

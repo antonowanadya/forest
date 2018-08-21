@@ -1,0 +1,118 @@
+.b-about__title{
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 51px;
+    padding-left: 30%;
+    letter-spacing: 1px;
+}
+.b-about__inner{
+    margin-bottom: 30px;
+}
+.b-about__menu{
+    float: left;
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 143px;
+    list-style: none;
+}
+.b-about__link{
+    font-size: 14px;
+    font-weight: 500;
+    color: #96989b !important;
+    border-bottom: 1px solid #c2c2c2 ;
+    text-decoration: none;
+    display: block;
+    letter-spacing: 1px;
+    padding: 5px 0;
+
+}
+.b-about__link:hover{
+    opacity: .7;
+}
+.b-about__link_active{
+    color: #000000 !important;
+}
+.b-about__info{
+    float: right;
+    line-height: 2;
+    width: 75%;
+    font-size: 16px;
+    color: #999999;
+    font-weight: 500;
+}
+.b-about__cite{
+    font-size: 31px;
+    font-style: italic;
+    padding: 50px 2% 50px 24%;
+    margin-bottom: 80px;
+    position: relative;
+    font-family: "Times New Roman";
+}
+.b-about__cite:before{
+    position: absolute;
+    content: '';
+    background: url("../images/cite-down.png") no-repeat;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-size: cover;
+    width: 30px;
+    height: 22px;
+}
+.b-about__cite:after{
+    position: absolute;
+    content: '';
+    background: url("../images/cite-up.png") no-repeat;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-size: cover;
+    width: 34px;
+    height: 25px;
+}
+.b-about__img{
+    height: 410px;
+    background: url("../images/manif.jpg") no-repeat center;
+    margin-bottom: 75px;
+    background-size: cover ;
+}
+.b-about__profile{
+    margin-bottom: 30px;
+    padding-left: 24%;
+}
+.b-profile__title{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: #999999;
+    letter-spacing: 1px;
+}
+
+
+.b-profile__text{
+    font-size: 16px;
+    line-height: 2;
+    color: #999999;
+    margin-bottom: 50px;
+    max-width: 600px;
+    font-weight: 500;
+}
+.b-profile__sert{
+    padding-left: 100px;
+    position: relative;
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+.b-profile__sert:before{
+    content: '';
+    position: absolute;
+    background: url("../images/fsc.png");
+    width: 89px;
+    height: 31px;
+    left: 0;
+    top: 10px;
+    background-size: cover;
+}

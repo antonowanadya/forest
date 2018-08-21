@@ -1,0 +1,154 @@
+
+.b-catalog__tech{
+    padding-left: 59px;
+    margin-bottom: 50px;
+}
+.b-catalog__tech td{
+    border-bottom: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+
+}
+
+.b-tech__table {
+    width: 100%;
+    border-collapse: collapse;
+
+    padding: 15px;
+    border-right: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+}
+.b-table__char {
+    padding: 26px 40px;
+    font-weight: 800;
+    font-size: 23px;
+}
+.b-table__par{
+    padding: 57px 40px 15px;
+    font-weight: 800;
+    font-size: 19px;
+}
+.b-table__parameter {
+    padding: 34px 43px 73px;
+    width: 33%;
+    color: #212121;
+    font-size: 16px;
+    font-weight: 500;
+}
+.b-table__item{
+    padding: 18px 43px;
+    width: 33%;
+    color: #212121;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.b-table__descr {
+    padding: 18px 43px;
+    width: 67%;
+    color: #999999;
+    font-size: 16px;
+}
+
+.b-catalog__types {
+    float: left;
+    width: 108px;
+    display: block;
+    list-style: none;
+    padding: 92px 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.b-types__item {
+    display: inline-block;
+}
+
+.b-types__link {
+    display: block;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #96989b !important;
+    font-size: 12px;
+    font-weight: 800;
+    border-bottom: 1px solid #cccccc;
+    padding: 16px 5px 18px 0;
+    width: 60px;
+
+}
+
+.b-types__link:hover {
+    opacity: .7;
+}
+
+.b-types__link_active {
+    color: #000 !important;
+}
+
+.b-catalog__photos {
+    float: left;
+    width: 150px;
+    margin-right: 50px;
+    padding-top: 116px;
+}
+
+.b-photos__item {
+    width: 150px;
+    height: 100px;
+    margin-bottom: 23px;
+}
+
+.type-ph1 {
+    background: url("../images/photo1.jpg");
+    background-size: cover;
+}
+
+.type-ph2 {
+    background: url("../images/photo2.jpg");
+    background-size: cover;
+}
+
+.type-ph3 {
+    background: url("../images/photo3.jpg");
+    background-size: cover;
+}
+
+.type-ph4 {
+    background: url("../images/photo4.jpg");
+    background-size: cover;
+}
+
+.b-catalog__im {
+    float: right;
+    max-width: 959px;
+}
+
+.b-im__title {
+    font-size: 33px;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+
+.b-im__slider {
+    width: 903px;
+    height: 593px;
+    background: url("../images/photo-main.jpg");
+    margin-bottom: 62px;
+}
+
+.b-cont__text {
+    margin-bottom: 37px;
+    font-size: 16px;
+    color: #999999;
+    width: 70%;
+}
+
+.b-im__desc {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #999999;
+    font-weight: 800;
+    margin-bottom: 31px;
+}
+
+.b-im__cont{
+    margin-bottom: 78px;
+}

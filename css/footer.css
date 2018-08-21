@@ -1,0 +1,179 @@
+
+.b-footer {
+    background: #212121;
+    padding: 90px 0 31px 0
+}
+
+.f-menu {
+    padding: 0 30px;
+    margin-bottom: 23px;
+}
+
+.b-border {
+    border-bottom: 1px solid #353535;
+}
+
+.f-menu__inner {
+    margin: 0;
+    padding: 0 0 50px 0;
+    float: left;
+    width: 42%;
+
+}
+.type-right{
+    width: 30%;
+}
+
+.f-menu__item {
+    display: inline-block;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    vertical-align: top;
+    margin-right: 33px;
+    margin-bottom: 24px;
+}
+
+.f-menu__link {
+    color: #ffffff !important;
+    text-decoration: none;
+    display: block;
+    padding: 0;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-bottom: 23px;
+    width: 100px;
+}
+
+.f-menu__link:hover {
+    opacity: .7;
+}
+
+.f-menu__sub {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.b-sub__link {
+    color: #ffffff !important;
+    font-size: 14px;
+    font-weight: 300;
+    text-decoration: none;
+    padding: 0;
+    margin-bottom: 15px;
+    text-transform: none;
+    letter-spacing: 1px;
+    display: block;
+    opacity: .7;
+}
+
+.type-float{
+    float: left;
+}
+
+.b-sub__link:hover {
+    opacity: .6;
+}
+.b-footer__email{
+    text-decoration: none;
+    color: #ffffff !important;
+}
+.b-footer__email:hover{
+    opacity: .7;
+}
+
+.b-footer__inner{
+    margin-bottom: 59px;
+    padding: 0 30px;
+}
+.b-footer__copy {
+    float: left;
+    width: 26%;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    padding-top: 30px;
+    line-height: 2;
+    margin-right: 4%;
+}
+
+.b-footer__office {
+    float: left;
+    width: 32%;
+    margin-right: 2%;
+    color: #ffffff;
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    position: relative;
+    line-height: 2;
+    font-weight: 300;
+    opacity: .6;
+}
+
+.b-footer__office:before {
+    position: absolute;
+    content: '';
+    background: url("../images/worker.png") no-repeat;
+    width: 29px;
+    height: 29px;
+    top: 21px;
+    left: 0;
+
+}
+
+.b-footer__address {
+    float: right;
+    width: 28%;
+
+    margin-right: 4%;
+    color: #ffffff;
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    position: relative;
+    line-height: 2;
+    font-weight: 300;
+    opacity: .6;
+}
+
+.b-footer__address:before {
+    position: absolute;
+    content: '';
+    background: url("../images/fabric.png") no-repeat;
+    width: 29px;
+    height: 28px;
+    top: 25px;
+    left: -12px;
+}
+
+.b-production {
+    background: #353535;
+    height: 80px;
+    box-sizing: border-box;
+    padding-top: 31px;
+}
+.b-production__link{
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    color: #ffffff !important;
+    width: 166px;
+    height: 24px;
+    background: url("../images/art-net.png");
+    margin-left: 10px;
+}
+.b-production__link:hover{
+    opacity: .7;
+}
+.b-production__text{
+    color: #ffffff;
+    float: right;
+    position: relative;
+
+}
+

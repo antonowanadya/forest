@@ -1,0 +1,753 @@
+@media screen and (max-width: 1380px) {
+    .b-center {
+        padding: 0 50px;
+    }
+
+    /*
+    выражения для хедера
+    */
+    .v-header__menu {
+        display: none;
+    }
+
+    .v-header__nav {
+        display: inline-block;
+    }
+
+    .v-header__item {
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    .v-header__link {
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+}
+
+@media screen and (min-width: 1390px){
+    .b-menu-adap{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .b-menu__link {
+        font-size: 11px;
+        font-weight: 500;
+        padding: 20px 0;
+    }
+
+
+    .b-advantages__item {
+        padding-right: 0;
+        padding-left: 85px;
+    }
+
+    .b-branches {
+        margin-bottom: 100px;
+    }
+
+    .b-about__cite {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 1090px) {
+    .b-advantages__item {
+        display: block;
+        margin: 0 auto 40px;
+        width: 300px;
+    }
+
+    .b-header__main {
+        margin-bottom: 100px;
+    }
+
+    .b-advantages__item:nth-child(3) {
+        padding-left: 90px;
+    }
+
+    .type-test:before {
+        left: 20px;
+    }
+
+    .b-header__title {
+        margin-bottom: 80px;
+    }
+
+    .type-quality:before {
+        left: 0;
+    }
+
+    .b-service__item {
+        padding-right: 20px;
+    }
+
+    .b-item__title:after {
+        right: 0;
+    }
+
+    .b-menu__link {
+        padding: 20px 8px;
+    }
+
+
+
+    .b-item__title {
+        font-size: 15px;
+        margin-bottom: 11px;
+    }
+
+    .b-item__text {
+        font-size: 14px;
+    }
+
+    .b-number {
+        padding: 13px 0 10px 23px;
+    }
+
+    .b-number:after {
+        top: 33px;
+    }
+
+    .b-number__num {
+        font-size: 47px;
+        text-align: center;
+    }
+
+    .b-numbers__descr {
+        max-width: 400px;
+    }
+
+    .f-menu__item {
+        margin-bottom: 10px;
+    }
+
+    .b-menu-adap {
+        width: 90%;
+
+    }
+
+    .b-menu-adap__inner {
+        padding-left: 0;
+    }
+
+}
+
+@media screen and (max-width: 956px) {
+
+
+    .b-info__phone {
+        font-size: 22px;
+    }
+
+    .b-service__item {
+        padding-right: 0;
+    }
+
+    .b-item__title {
+        font-size: 14px;
+    }
+
+    .b-item__title:after {
+        display: none;
+    }
+
+    .b-number {
+        padding: 9px 0 10px 12px;
+
+    }
+
+    .b-number__num {
+        font-size: 38px;
+
+    }
+
+    .b-number__text {
+        font-size: 14px;
+    }
+
+    .b-number:after {
+        top: 25px;
+    }
+
+    .b-information__title {
+        font-size: 28px;
+    }
+
+    .b-descr__text {
+        font-size: 14px;
+    }
+
+    .b-information__title {
+        font-size: 28px;
+        width: 47%;
+    }
+
+    .b-descr__text {
+        font-size: 15px;
+    }
+
+    .b-footer__copy {
+        font-size: 13px;
+    }
+
+    .b-footer__office {
+        font-size: 13px;
+        line-height: 1.8;
+    }
+
+    .b-footer__address {
+        font-size: 13px;
+        line-height: 1.8;
+    }
+
+    .v-header {
+        min-height: 108px;
+    }
+
+    .b-language{
+        margin-left: 10px;
+    }
+    .b-language_head {
+        padding-top: 22px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .slick-prev{
+        left: 0;
+    }
+    .slick-next {
+        right: 0;
+    }
+    .b-language_head {
+        padding-top: 25px;
+    }
+    .b-header__title {
+        font-size: 35px;
+        margin-bottom: 50px;
+    }
+
+    .b-language {
+        margin-left: 0;
+    }
+
+    .b-info__phone {
+        font-size: 25px;
+    }
+
+    .b-advantages__item {
+        margin: 0 auto 27px;
+        font-size: 14px;
+
+    }
+
+    .b-header {
+        min-height: 720px;
+    }
+
+    /*    about.html    */
+    .b-about__title {
+        font-size: 29px;
+        margin-bottom: 32px;
+        text-align: center;
+    }
+
+    .v-info__hours {
+        display: none;
+    }
+
+    .f-menu__inner {
+        padding: 0;
+    }
+
+    .b-footer__office {
+        padding-left: 35px;
+        margin-right: 0;
+        line-height: 1.7;
+        width: 33%;
+        font-size: 12px;
+    }
+
+    .b-footer__address {
+        margin-right: 0;
+        padding-left: 36px;
+        line-height: 1.7;
+        width: 33%;
+        font-size: 12px;
+    }
+
+    .b-footer__address:before {
+        top: 21px;
+        left: 2px;
+
+    }
+
+    .b-footer__copy {
+        margin-right: 0;
+        line-height: 1.7;
+        width: 33%;
+        font-size: 12px;
+        text-align: center;
+    }
+    .b-service__title{
+        width: 250px;
+        text-align: center;
+        margin: 0 auto 20px;
+        font-size: 19px;
+    }
+    .b-information{
+        margin-bottom: 110px;
+    }
+    .b-info__hours{
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 778px) {
+    .v-language {
+        display: none;
+
+    }
+
+    .v-info__phone {
+        margin-right: 40px;
+    }
+
+    .b-about__cite {
+        font-size: 22px;
+    }
+
+    .b-about__title {
+        margin-bottom: 12px;
+        padding-left: 25%;
+    }
+
+    .b-about__menu {
+        width: 106px;
+    }
+
+    .b-about__info {
+        line-height: 1.6;
+        margin-left: 3%;
+        font-size: 14px;
+    }
+
+    .b-about__profile {
+        padding-left: 5%;
+    }
+
+    .b-profile__text {
+        line-height: 1.6;
+    }
+
+    .v-header__inner {
+        padding-top: 15px;
+    }
+
+    .b-about__img {
+        height: 233px;
+    }
+
+    /*footer*/
+    .b-sub__link {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+
+    .b-menu-adap {
+        width: 100%;
+    }
+
+    .b-adap__item {
+        margin-right: 0;
+    }
+
+    .b-menu__adap {
+        padding-right: 3%;
+    }
+
+
+    .b-center{
+        padding: 0 17px;
+    }
+    .b-number:after{
+        display: none;
+    }
+    .b-number__num{
+        font-size: 35px;
+    }
+    .b-number__text{
+        font-size: 12px;
+    }
+    .b-information__title{
+        float: none;
+        width: 100%;
+    }
+    .b-information__descr{
+        float: none;
+        width: 100%;
+    }
+
+
+    .b-header__logo{
+        width: 219px;
+        height: 59px;
+    }
+    .b-info__phone{
+        padding-top: 12px;
+    }
+    .b-language_head{
+        padding-top: 21px;
+    }
+    .b-header__nav{
+        padding-top: 0;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .b-menu__link{
+        padding: 17px 8px;
+        font-size: 13px;
+    }
+
+    .b-menu__item{
+        display:block;
+    }
+
+    .b-menu__inner{
+        text-align: center;
+    }
+
+    .b-about__cite {
+        padding: 50px 2%;
+        font-size: 18px;
+    }
+
+
+    .b-header__info{
+        margin-right: 0;
+    }
+    .b-about__menu {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+        float: none;
+    }
+
+    .b-about__title {
+        padding-left: 0;
+        margin-bottom: 25px;
+        line-height: 1.1;
+    }
+
+    .b-about__info {
+        float: none;
+        width: 100%;
+        padding: 0 15px;
+        box-sizing: border-box;
+    }
+
+    .v-header__nav {
+        margin-right: 0;
+    }
+
+
+    .b-profile__text {
+        font-size: 14px;
+    }
+
+    .v-header {
+        min-height: 64px;
+    }
+
+    .f-menu__link {
+        margin-bottom: 3px;
+    }
+
+    .f-menu__item {
+        margin-bottom: 11px;
+    }
+
+    .b-footer {
+        padding: 45px 5px 31px 5px;
+    }
+
+    .b-footer__copy {
+        float: none;
+        width: 100%;
+    }
+
+    .b-footer__office {
+        width: 49%;
+
+    }
+
+    .b-footer__address {
+        width: 49%;
+    }
+
+    /*vacancy*/
+    .b-option__link {
+        display: block;
+    }
+
+    .b-vacancy__title {
+        font-size: 30px;
+    }
+
+    .b-vacancy__details {
+        font-size: 14px;
+        line-height: 1.7
+    }
+
+    .b-option__list {
+        padding-left: 20px;
+    }
+
+    .b-options__inner {
+        margin-bottom: 20px;
+    }
+
+    .b-prof__title {
+        font-size: 18px;
+    }
+    .b-numbers__text{
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        width: 200px;
+    }
+    .b-numbers__descr{
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .b-numbers__inner{
+        margin-bottom: 25px;
+    }
+    .b-number{
+        display: block;
+    }
+    .b-number__num{
+        font-size: 44px;
+    }
+    .b-button{
+        display: block;
+        margin: 0 auto;
+    }
+    .b-service__item{
+        display: block;
+        margin: 0 auto 40px;
+        width: 300px;
+
+    }
+
+    .b-header{
+        padding-top: 30px;
+        min-height: 608px;
+    }
+    .b-header__title{
+        font-size: 27px;
+    }
+    .b-language{
+        display: none;
+    }
+    .b-service__inner {
+        margin-bottom: 70px;
+    }
+    .b-info__phone{
+        padding-top: 5px;
+    }
+
+}
+
+@media screen and (max-width: 548px) {
+
+
+
+    .v-header__logo {
+        width: 47px;
+        height: 52px;
+        background: url("../images/logo-green.png") no-repeat;
+        background-size: cover;
+    }
+
+    .v-info__phone {
+        font-size: 27px;
+        margin-right: 30px;
+        line-height: 52px;
+        padding-top: 0;
+    }
+
+    .b-about__cite:before {
+        width: 20px;
+        height: 14px;
+    }
+
+    .b-about__cite:after {
+        width: 20px;
+        height: 15px;
+    }
+
+    .b-about__cite {
+        padding: 24px 2%;
+    }
+
+    /*footer*/
+    .f-menu__inner {
+        width: 100%;
+        padding: 0 0 10px 0;
+
+    }
+
+    .f-menu__item {
+        margin-bottom: 25px;
+        margin-right: 20px;
+    }
+
+    .b-border {
+        padding-bottom: 20px;
+    }
+
+    .b-adap__item{
+        display: block;
+        width: 250px;
+    }
+    .b-adap__link{
+        margin-bottom: 5px;
+    }
+    .b-menu-adap{
+        width: 250px;
+        padding: 40px 0;
+    }
+    .b-sub-ad__link{
+        margin-bottom: 5px;
+    }
+    .type-float{
+        float: none;
+    }
+    .b-information__title{
+        font-size: 22px;
+    }
+    .b-language{
+        display: none;
+    }
+    .b-header__main{
+        margin-bottom: 50px;
+    }
+    .b-info__phone{
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .b-footer__office {
+        float: none;
+        width: 80%;
+        margin: 0 auto;
+        font-size: 14px;
+    }
+    .b-footer__office:before{
+        left: -8px;
+    }
+
+    .b-footer__address {
+        float: none;
+        width: 80%;
+        margin: 0 auto;
+        font-size: 14px;
+    }
+    .b-footer__address:before{
+        left: -7px;
+    }
+    .b-branches__title{
+        text-align: center;
+        min-width: 235px;
+    }
+    .b-button{
+        font-size: 10px;
+
+    }
+    .b-numbers__button{
+        width: 214px;
+    }
+    .b-header__logo{
+        background: url("../images/logo-wh.svg") no-repeat;
+        width: 45px;
+        height: 45px;
+    }
+    .b-header__title{
+        font-size: 21px;
+    }
+    .b-advantages__item{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 412px) {
+    .v-info__phone {
+        font-size: 18px;
+        line-height: 43px;
+        margin-right: 4px;
+
+    }
+
+    .v-header__inner {
+        padding-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .b-prof__title {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .v-header__nav {
+        line-height: 48px;
+        width: 43px;
+        height: 43px;
+    }
+
+    .v-header__logo {
+        width: 39px;
+        height: 43px;
+    }
+
+    .b-about__cite {
+        font-size: 15px;
+    }
+
+    .b-about__img {
+        height: 146px;
+        margin-bottom: 40px;
+
+    }
+
+    .b-profile__sert:before {
+        width: 73px;
+        height: 25px;
+    }
+
+    .b-profile__sert {
+        padding-left: 93px;
+        margin-bottom: 24px;
+    }
+
+    .b-footer__address {
+        font-size: 12px;
+    }
+
+    .b-footer__office {
+        font-size: 12px;
+    }
+
+    .b-footer__copy {
+        width: 80%;
+        margin: 0 auto;
+    }
+}

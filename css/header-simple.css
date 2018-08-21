@@ -1,0 +1,225 @@
+.v-header {
+    padding: 0 0 0 0;
+
+    position: relative;
+    margin-bottom: 40px;
+    min-height: 173px;
+    box-sizing: border-box;
+}
+.b-menu-f{
+    -webkit-box-shadow: 0 20px 110px -17px #cccccc;
+    -moz-box-shadow: 0 20px 110px -17px #cccccc;
+    box-shadow: 0 20px 110px -17px #cccccc;
+}
+
+.b-fixed{
+    position: fixed;
+    z-index: 1000;
+    background: #ffffff;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+}
+
+.v-header__logo {
+    float: left;
+    background: url("../images/logo-head.png");
+    width: 193px;
+    height: 52px;
+    margin-right: 10px;
+}
+
+.v-language {
+    float: right;
+    vertical-align: top;
+    margin-left: 5px;
+    padding-right: 52px;
+}
+
+.v-language_head {
+    padding-top: 12px;
+}
+
+.v-language__item {
+    color: #000;
+    font-size: 12px;
+    display: inline-block;
+    background: none;
+    outline: none;
+    border: none;
+    width: 45px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.v-language__item_active {
+    background: #000000;
+    border-radius: 12px;
+    color: #ffffff;
+}
+
+.b-language__item_green {
+    background: #58af10;
+    border-radius: 14px;
+    color: #000000;
+}
+
+.v-header__info {
+    float: right;
+    margin-right: 5px;
+}
+
+.v-info__phone {
+    font-size: 18px;
+    font-weight: bold;
+    float: right;
+    vertical-align: top;
+    color: #000000;
+    padding-top: 11px;
+    letter-spacing: 1px;
+
+}
+
+.v-info__hours {
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: top;
+    color: #000000;
+    position: relative;
+    padding-right: 24px;
+    padding-top: 14px;
+    line-height: 1.3;
+    margin-right: 5px;
+    text-align: right;
+}
+
+.v-info__hours:after {
+    position: absolute;
+    content: '';
+    width: 12px;
+    height: 18px;
+    background: url("../images/phone.png");
+    top: 17px;
+    right: -2px;
+}
+
+.v-header__inner {
+    margin-bottom: 15px;
+    padding-top: 30px;
+}
+.v-header__nav{
+    display: none;
+    width: 55px;
+    height: 55px;
+    float: right;
+    margin-right: 30px;
+    background: url("../images/hamb.svg") no-repeat 0 8px;
+    cursor: pointer;
+}
+.v-header__nav_x{
+    background: url("../images/x.svg") no-repeat center;
+    background-size: 30px 30px;
+}
+
+
+.v-header__menu {
+    display: block;
+    margin: 0;
+    padding: 0 30px;
+    list-style: none;
+    text-align: justify;
+}
+
+.v-header__item {
+    display: inline-block;
+}
+
+.v-header__link {
+    display: block;
+    padding: 0 20px 0 0;
+    text-decoration: none;
+    color: #000000;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+
+.v-header__link:hover {
+    opacity: .7;
+}
+
+.b-helper {
+    width: 100%;
+    height: 0;
+    visibility: hidden;
+    display: inline-block;
+}
+
+.type-arrow:after{
+    position: absolute;
+    content: '';
+    background: url("../images/arrow-down.png");
+    width: 7px;
+    height: 5px;
+    top: 6px;
+    right: 6px;
+
+}
+.b-menu-adap{
+    display: none;
+    float: right;
+    padding: 80px 0;
+    width: 68%;
+    position: relative;
+    z-index: 100;
+    overflow: scroll;
+}
+.b-menu__adap_show{
+    display: block;
+}
+.b-menu-adap__inner {
+    list-style: none;
+    margin: 0 0 30px 0;
+
+}
+.b-menu__adap__item{
+    display: inline-block;
+    width: 29%;
+    margin-right: 2%;
+}
+.b-adap__item{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 3%;
+    margin-bottom: 15px;
+}
+.b-adap__link{
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 800;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+.b-sub-ad__link{
+    display: block;
+    color:#96989b !important;
+    text-decoration: none !important;
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.b-adap__sub{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

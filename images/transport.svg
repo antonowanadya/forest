@@ -1,0 +1,30 @@
+﻿<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.33 52.67">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #bababa;
+        stroke-miterlimit: 22.93;
+        stroke-width: 1.98px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>транспорт</title>
+  <g>
+    <line class="cls-1" x1="58.69" y1="44.07" x2="64.13" y2="44.07"/>
+    <circle class="cls-1" cx="51.15" cy="44.07" r="7.61"/>
+    <line class="cls-1" x1="23.52" y1="44.07" x2="43.61" y2="44.07"/>
+    <circle class="cls-1" cx="15.91" cy="44.07" r="7.61"/>
+    <line class="cls-1" x1="38.87" y1="31.84" x2="45.29" y2="31.84"/>
+    <polyline class="cls-2" points="64.34 40.09 64.34 24.15 55.47 8.79 43.19 8.79 43.19 25.55 58.41 25.55"/>
+    <line class="cls-1" x1="7.6" y1="25.26" x2="11.29" y2="13.22"/>
+    <line class="cls-1" x1="15.58" y1="25.26" x2="19.28" y2="13.22"/>
+    <line class="cls-1" x1="23.44" y1="25.26" x2="27.14" y2="13.22"/>
+    <polyline class="cls-2" points="52.61 0.99 30.28 0.99 28.05 8.81 1.26 8.81 6.21 29.61"/>
+    <path class="cls-2" d="M329.07,450.15c-0.14-.7,2.93-11.6,2.93-11.6l25.19,0.24,8.93-28.86" transform="translate(-325.8 -408.95)"/>
+  </g>
+</svg>

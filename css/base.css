@@ -1,0 +1,14 @@
+
+@import "normalize.css";
+@import "header-main.css";
+@import "../fonts/fonts.css";
+@import "content.css";
+@import "footer.css";
+
+@import "slick.css";
+@import "slider.css";
+@import "vacancy.css";
+@import "about.css";
+@import "catalog.css";
+@import "header-simple.css";
+@import "media.css";

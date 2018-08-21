@@ -1,0 +1,27 @@
+﻿<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.56 73.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #64b521;
+        stroke-miterlimit: 22.93;
+        stroke-width: 1.98px;
+      }
+
+      .cls-1 {
+        fill-rule: #64b521;
+      }
+    </style>
+  </defs>
+  <title>строительство</title>
+  <g>
+    <path class="cls-1" d="M229.72,297.73h7.87a7.87,7.87,0,1,1-15.74,0h7.87Z" transform="translate(-205.94 -285.38)"/>
+    <line class="cls-2" x1="28.88" y1="7.29" x2="28.88"/>
+    <line class="cls-2" x1="18.68" y1="7.29" x2="18.68"/>
+    <path class="cls-1" d="M229.72,315.79a5.68,5.68,0,1,1-5.68,5.68" transform="translate(-205.94 -285.38)"/>
+    <line class="cls-2" x1="23.78" y1="31.48" x2="23.78" y2="24.19"/>
+    <path class="cls-1" d="M242.66,337.83l-7-6.68m-18.92,6.68,7-6.68" transform="translate(-205.94 -285.38)"/>
+    <line class="cls-2" x1="47.56" y1="65.21" y2="65.21"/>
+    <path class="cls-1" d="M253.5,357.49H205.94M253.5,343.7H205.94" transform="translate(-205.94 -285.38)"/>
+  </g>
+</svg>

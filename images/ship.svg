@@ -1,0 +1,21 @@
+﻿<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68.01 70.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #bababa;
+        stroke-miterlimit: 22.93;
+        stroke-width: 1.98px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>судостроение</title>
+  <g>
+    <polyline class="cls-1" points="28.64 8.31 14.69 8.31 20.8 4.78 14.23 0.99 33.49 0.99 33.49 54.36"/>
+    <polyline class="cls-1" points="30.28 15.44 26.28 15.44 10.7 47.38 30.58 47.38"/>
+    <path class="cls-1" d="M365.33,336.54A21.94,21.94,0,0,0,357.7,294" transform="translate(-323.34 -289.16)"/>
+    <path class="cls-1" d="M324.09,354.37c1.24,1.45,4,4.07,6.38,3.68,4.24-.67,6.88-6.76,11.16-6.44,5.56,0.42,9.06,7,14.63,7.1,5.33,0.07,8.37-6.43,13.69-6.73,4.38-.24,7.15,5.46,11.4,6.58a10.56,10.56,0,0,0,9.31-2.5" transform="translate(-323.34 -289.16)"/>
+    <path class="cls-1" d="M375.82,354.86a16.49,16.49,0,0,0,9.63-10.45H331.66a14.64,14.64,0,0,0,4.28,10.13" transform="translate(-323.34 -289.16)"/>
+  </g>
+</svg>
